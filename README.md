@@ -3,6 +3,7 @@
 
 # Компиляция
 cd src\com\home\polina
+
 javac CommandParser.java
 
 # Запуск
